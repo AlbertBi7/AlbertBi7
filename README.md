@@ -20,13 +20,6 @@
 🔍 **Database:** ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)  
 ---
 
-### 📈 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlbertBi7&show_icons=true&theme=radical" alt="Your GitHub stats" />
-</p>  
-
----
-
 ### 📫 Let's Connect  
 📧 **Email:** albertbiju13@gmail.com  
 💼 **LinkedIn:** www.linkedin.com/in/albert-biju-15aa06292  
