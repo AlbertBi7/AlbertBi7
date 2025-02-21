@@ -22,7 +22,7 @@
 
 ### 📈 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="Your GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AlbertBi7&show_icons=true&theme=radical" alt="Your GitHub stats" />
 </p>  
 
 ---
@@ -30,5 +30,7 @@
 ### 📫 Let's Connect  
 📧 **Email:** albertbiju13@gmail.com  
 💼 **LinkedIn:** www.linkedin.com/in/albert-biju-15aa06292  
+
+---
 
 🚀 **Hopefully I build somthing nice!**
